@@ -1,5 +1,5 @@
 # Módulo 2: Redes neuronales recurrentes (RNNs)
-Se utiliza tensorflow para implementar una red neuronal recurrente que hace uso de un codificador, un decodificador y un módulo de atención.
+Se utiliza tensorflow y el encaje Word2Vec para implementar una red neuronal recurrente que hace uso de un codificador, un decodificador y un módulo de atención.
 
 
 ### Referencias
