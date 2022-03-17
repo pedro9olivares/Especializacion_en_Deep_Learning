@@ -1,5 +1,5 @@
 # Especialización en Deep Learning
-Este repositorio contiene material para el curso impartido en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
+Este repositorio contiene el material del curso impartido por el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/).
 
 El curso se divide en 5 módulos:
 1. Perceptrones y redes convolucionales (CNNs)
